@@ -1,4 +1,5 @@
-# spacy-youtube-material
+# Spacy Youtube Material 
+
 Here are the notebooks used during the spacy youtube series.
 
-- [first notebook](https://www.youtube.com/watch?v=WnGPv6HnBok)
+- Here's [the notebook](https://github.com/koaning/spacy-youtube-material/blob/master/01-intro-to-spacy.ipynb) for [the first video](https://www.youtube.com/watch?v=WnGPv6HnBok). 
