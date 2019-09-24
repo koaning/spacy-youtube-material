@@ -2,7 +2,9 @@
 
 ![](images/spacy.png)
 
-Here are the notebooks used during the spacy youtube series.
+This repository contains notebooks used in the youtube series found [here](https://www.youtube.com/watch?v=WnGPv6HnBok&list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF).
+
+Before playing with the notebooks is would be good to download the stackoverflow dataset first. This can be found [here](https://www.kaggle.com/stackoverflow/stacksample).
 
 - Here's [the notebook](https://github.com/koaning/spacy-youtube-material/blob/master/01-intro-to-spacy.ipynb) for [the first video](https://www.youtube.com/watch?v=WnGPv6HnBok). 
 - Here's [the notebook](https://github.com/koaning/spacy-youtube-material/blob/master/02-match-more-languages.ipynb) for [the second video](https://www.youtube.com/watch?v=WnGPv6HnBok). 
