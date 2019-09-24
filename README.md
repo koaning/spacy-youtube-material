@@ -5,3 +5,4 @@
 Here are the notebooks used during the spacy youtube series.
 
 - Here's [the notebook](https://github.com/koaning/spacy-youtube-material/blob/master/01-intro-to-spacy.ipynb) for [the first video](https://www.youtube.com/watch?v=WnGPv6HnBok). 
+- Here's [the notebook](https://github.com/koaning/spacy-youtube-material/blob/master/02-match-more-languages.ipynb) for [the second video](https://www.youtube.com/watch?v=WnGPv6HnBok). 
